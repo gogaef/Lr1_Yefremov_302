@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/Welcome.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>11</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/web/SearchAgent.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/web/ResultAgent.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/web/ChangeDocument.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/web/DeleteIsurance.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/src/java/Serv/ProcessCreatingIsurance.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/src/java/Serv/ProcessDeletingAgreement.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/src/java/Serv/ProcessSearchAgent1.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/src/java/classes/ManagerQuery.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/src/java/Serv/ProcessChangingAgent.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/web/WelcomeUser.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/web/CreateIsurance.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/src/java/Serv/Autentification.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/WebApplication1/web/Welcome.jsp</file>
+        </group>
+    </open-files>
+</project-private>
